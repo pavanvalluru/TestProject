@@ -1,0 +1,299 @@
+{
+    "items":
+    [
+        {
+            "id": 1,
+            "title": "Schöne Zweiraumwohnung direkt im Grünen",
+            "price":500,
+            "location":{
+                "address":"Bergmannstraße 33, 10961 Berlin",
+                "latitude":52.488886876519175,
+                "longitude":13.397688051882763
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig01/N/278/959/428/278959428-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":2,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig01/N/278/959/436/278959436-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":3,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/959/437/278959437-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":4,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/278/959/419/278959419-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "1 ruhiges Zimmer - Studioappartment",
+            "price":380,
+            "location":{
+                "address":"Bergmannstraße 15, 10961 Berlin",
+                "latitude":52.48920357221971,
+                "longitude":13.391565489174383
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/278/958/547/278958547-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Provisionsfreie ruhige Wohnung in Kreuzberg",
+            "price":470,
+            "location":{
+                "address":"Zossener Str. 5, 10961 Berlin",
+                "latitude":52.493683162137756,
+                "longitude":13.394607280443896
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/957/321/278957321-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":2,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig01/N/278/957/296/278957296-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":3,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/957/273/278957273-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":4,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/957/285/278957285-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":5,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/957/309/278957309-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Schöne Zweiraumwohnung direkt im Grünen",
+            "price":463,
+            "location":{
+                "address":"Zossener Str. 22, 10961 Berlin",
+                "latitude":52.490010798676394,
+                "longitude":13.393719465845871
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig01/N/278/948/784/278948784-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":2,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/278/948/763/278948763-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":3,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/948/777/278948777-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":4,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/278/948/787/278948787-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":5,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig01/N/278/948/796/278948796-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":6,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/948/809/278948809-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Prov. freie einzigartige Gründerzeitwohnung im ruhigen Hinterhof",
+            "price":609,
+            "location":{
+                "address":"Zossener Str. 20, 10961 Berlin",
+                "latitude":52.49057435123858,
+                "longitude":13.393806470486718
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/278/945/963/278945963-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":2,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/945/977/278945977-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":3,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/278/945/987/278945987-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":4,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/278/945/995/278945995-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "EIN HAUS IM HAUS! ZAUBERHAFTES LOFT IN Kreuzberg",
+            "price":881,
+            "location":{
+                "address":"Riemannstr. 33, 10961 Berlin",
+                "latitude":52.490534767546315,
+                "longitude":13.392278115417115
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/941/873/278941873-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":2,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig03/N/278/941/842/278941842-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":3,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig03/N/278/941/846/278941846-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":4,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/278/941/859/278941859-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":5,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/941/881/278941881-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":6,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/941/889/278941889-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":7,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/941/897/278941897-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Mitten im Kiez *** Idyllische Ruhe! 3 Zimmer ALtbauwohnung",
+            "price":746,
+            "location":{
+                "address":"Bergmannstraße 38, 10961 Berlin",
+                "latitude":52.48888787140022,
+                "longitude":13.399288243055638
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig03/N/278/929/206/278929206-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":2,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/929/209/278929209-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Sehr ruhige Maisonette Wohnung mit privatem Garten und Balkon direkt am Kreuzberg",
+            "price":667,
+            "location":{
+                "address":"Mehringdamm 41, 10961 Berlin",
+                "latitude":52.49226434097342,
+                "longitude":13.387860954730073
+            }
+        },
+        {
+            "id": 9,
+            "title": "Modern möblierte Altbauwhg in Kreuzberg",
+            "price":900,
+            "location":{
+                "address":"fidicinstr. 15, 10961 Berlin",
+                "latitude":52.486053658198635,
+                "longitude":13.391584333106607
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig03/N/278/920/198/278920198-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":2,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/278/920/205/278920205-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":3,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig01/N/278/920/192/278920192-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Provisionsfrei 3-Zimmer Wohnung - Bergmannkiez",
+            "price":1114,
+            "location":{
+                "address":"Zossener Str. 44, 10243 Berlin",
+                "latitude":52.492765085169204,
+                "longitude":13.395121877748567
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig03/N/277/752/662/277752662-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":2,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/277/752/665/277752665-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":3,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig02/N/277/752/669/277752669-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":4,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig01/N/277/752/672/277752672-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Tolle Remise mitten in Kreuzberg",
+            "price":313,
+            "location":{
+                "address":"Mittenwalder Strasse. 34, 10961 Berlin",
+                "latitude":52.48956742162863,
+                "longitude":13.396198677656693
+            },
+            "images":[
+                {
+                    "id":1,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig03/N/277/499/734/277499734-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":2,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/277/499/727/277499727-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":3,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig03/N/277/499/746/277499746-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":4,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig04/N/277/746/159/277746159-0.jpg/ORIG/resize/600x400/format/jpg"
+                },
+                {
+                    "id":5,
+                    "url":"https://pictureis24-a.akamaihd.net/pic/orig03/N/277/746/458/277746458-0.jpg/ORIG/resize/600x400/format/jpg"
+                }
+            ]
+        }
+    ]
+}
