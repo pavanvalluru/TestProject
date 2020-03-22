@@ -1,7 +1,5 @@
 # Brief Introduction
 
-The main purpose of this project is to only demonstrate coding style.
-
 This project is implemented programmatically with out using Storyboards.
 No external frameworks have been used.
 This project has a combination of MVVM-C pattern along with Clean-Swift architecture pattern.
